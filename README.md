@@ -4,25 +4,6 @@ Welcome to the official GitHub repository for the **ZIRA Network**, a revolution
 
 ZIRA moves value dynamically through flows, verified by small adaptive node groups, enabling **high throughput, minimal storage, and adaptive security**. This repository is your central hub for all official ZIRA materials, visual resources, and community references.
 
----
-
-## 📄 Official Resources
-
-Explore all public ZIRA documents and visual assets here:
-
-- **[Full Whitepaper (PDF)](link_to_full_whitepaper.pdf)**  
-- **[Simplified Whitepaper (PDF)](link_to_simplified_whitepaper.pdf)**  
-- **[FAQ](link_to_faq.pdf)**  
-
-**Diagrams & Infographics**  
-
-- Flow & Convergence  
-- Node Roles & Network Architecture  
-- Ecosystem Overview  
-
-All resources are provided to help participants, researchers, and the community understand ZIRA’s revolutionary approach to decentralized finance.
-
----
 
 ## Key Features of ZIRA
 
