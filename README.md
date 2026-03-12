@@ -1,4 +1,4 @@
-# ZIRA Network - Public Hub
+# ZIRA Network
 
 Welcome to the official GitHub repository for the **ZIRA Network**, a revolutionary digital currency ecosystem designed to **self-organize, adapt, and scale** like a living system.
 
@@ -62,4 +62,4 @@ ZIRA is more than a cryptocurrency. It is a **living, adaptive financial network
 
 ---
 
-*Thank you for visiting the ZIRA Public Hub. Together, we are building the future of adaptive finance.*
+*Thank you for visiting the ZIRA Network. Together, we are building the future of adaptive finance.*
